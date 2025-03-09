@@ -2,7 +2,7 @@ title: Your Site Title
 description: A description of your site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eeyzot.github.io" # the base hostname & protocol for your site
-theme: minima
+theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
